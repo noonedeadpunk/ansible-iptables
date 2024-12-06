@@ -7,9 +7,9 @@ An ansible role to install and configure persistent iptables.
 #### Requirements
 
 ##### Supported Operating Systems
-* Ubuntu 16.04
-* RHEL/CentOS 7
-* Debian 9
+* Ubuntu 22.04
+* RHEL/CentOS 9
+* Debian 12
 
 #### Rule Definitions
 
